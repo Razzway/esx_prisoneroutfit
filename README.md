@@ -3,7 +3,7 @@
 - You can put on your prisoner outfit and resume your civil outfit
 - Easy to use & to config, enjoy 🤩
 
-## Requierement 
+## Requierements
 - [skinchanger](https://github.com/mitlight/skinchanger)
 - [es_extended](https://github.com/esx-framework/es_extended)
 
