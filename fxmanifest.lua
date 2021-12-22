@@ -23,7 +23,7 @@ client_scripts {
 }
 
 server_script {
-    '@zFramework/mysql-async/lib/MySQL.lua',
-    '@zFramework/framework/locale.lua',
+    '@mysql-async/lib/MySQL.lua',
+    '@es_extended/locale.lua',
     'server/*.lua',
 }
